@@ -119,7 +119,7 @@ docker push localhost:8083/java-maven:1.5
 
 ## Access Jenkins
 
-Jenkins UI: [http://46.101.236.225:8088](http://localhost:8088)
+Jenkins UI: [http://localhost:8088](http://localhost:8088)
 
 Environment Variables: [http://localhost:8088/env-vars.html](http://localhost:8088/env-vars.html)
 
